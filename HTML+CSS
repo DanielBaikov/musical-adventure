@@ -1,0 +1,120 @@
+<table class="iksweb">
+	<style tbody="text/css">
+   /* Стили таблицы (IKSWEB) */
+table.iksweb{text-decoration: none;border-collapse:collapse;width:100%;text-align:left;}
+table.iksweb th{font-weight:normal;font-size:16px; color:#ffffff;background-color:#348f00;}
+table.iksweb td{font-size:14px;color:#000000;}
+table.iksweb td,table.iksweb th{white-space:pre-wrap;padding:12px 20px;line-height:14px;vertical-align: middle;border: 1px solid #348f00;}
+table.iksweb tr:hover{background-color:#f9fafb}
+table.iksweb tr:hover td{color:#354251;cursor:default;}
+</style>
+		<tr>
+			<td colspan="3">Mēneša vidējā darba samaksa 2021.gada 3. ceturksnī</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>BRUTO darba samaksa, eiro</td>
+			<td>NETO darba samaksa, eiro</td>
+		</tr>
+		<tr>
+			<td>K Finanšu un apdrošināšanas darbības</td>
+			<td>2238</td>
+			<td>1613</td>
+		</tr>
+		<tr>
+			<td>J Informācijas un komunikācijas pakalpojumi</td>
+			<td>2084</td>
+			<td>1504</td>
+		</tr>
+		<tr>
+			<td>M Profesionālie, zinātniskie un tehniskie pakalpojumi</td>
+			<td>1574</td>
+			<td>1166</td>
+		</tr>
+		<tr>
+			<td>Q Veselība un sociālā aprūpe</td>
+			<td>1533</td>
+			<td>1106</td>
+		</tr>
+		<tr>
+			<td>D Elektroenerģija, gāzes apgāde, siltumapgāde un gaisa kondicionēšana</td>
+			<td>1512</td>
+			<td>1123</td>
+		</tr>
+		<tr>
+			<td>O Valsts pārvalde un aizsardzība</td>
+			<td>1490</td>
+			<td>1091</td>
+		</tr>
+		<tr>
+			<td>B Teguves rūpniecība un karjeru izstrāde</td>
+			<td>1439</td>
+			<td>1039</td>
+		</tr>
+		<tr>
+			<td>F Būvniecība</td>
+			<td>1310</td>
+			<td>951</td>
+		</tr>
+		<tr>
+			<td>VIDĒJI VALSTĪ</td>
+			<td>1280</td>
+			<td>940</td>
+		</tr>
+		<tr>
+			<td>C Apstrādes rūpnieciba</td>
+			<td>1227</td>
+			<td>907</td>
+		</tr>
+		<tr>
+			<td>E Ūdens apgāde; notekūdeņu, atkritumu apsaimniekošana un sanācija</td>
+			<td>1204</td>
+			<td>878</td>
+		</tr>
+		<tr>
+			<td>A Lauksaimniecība, mežsaimniecība un zivsaimniecība</td>
+			<td>1203</td>
+			<td>886</td>
+		</tr>
+		<tr>
+			<td>H Transports un uzglabāšana</td>
+			<td>1163</td>
+			<td>853</td>
+		</tr>
+		<tr>
+			<td>N Administratīvo un apkalpojošo dienestu darbība</td>
+			<td>1137</td>
+			<td>840</td>
+		</tr>
+		<tr>
+			<td>G Tirdzniecība; automobiļu un motociklu remonts</td>
+			<td>1133</td>
+			<td>838</td>
+		</tr>
+		<tr>
+			<td>R Māksla, izklaide un atpūta</td>
+			<td>1084</td>
+			<td>812</td>
+		</tr>
+		<tr>
+			<td>L Operācijas ar nekustamo īpašumu</td>
+			<td>1022</td>
+			<td>765</td>
+		</tr>
+		<tr>
+			<td>S Citi pakalpojumi</td>
+			<td>1018</td>
+			<td>770</td>
+		</tr>
+		<tr>
+			<td>P izglitiba</td>
+			<td>988</td>
+			<td>732</td>
+		</tr>
+		<tr>
+			<td>I Izmitināšana un ēdināšanas pakalpojumi</td>
+			<td>855</td>
+			<td>636</td>
+		</tr>
+	</tbody>
+</table>
